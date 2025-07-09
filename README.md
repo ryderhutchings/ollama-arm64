@@ -21,7 +21,7 @@ Use these scripts at your own risk.
 
 ### Getting Started:
 > [!NOTE]
-> The following install script is provided by Ollama’s official website.
+> The following install script is provided by the official [Ollama’s website](https://ollama.com/download/linux).
 
 ```bash
 
@@ -30,4 +30,31 @@ curl -fsSL https://ollama.com/install.sh | sh
 ```
 
 ### Using the Tool:
-The following usage instructions are from the official Ollama documentation:
+
+Once installed, you can run Ollama commands directly from your terminal:
+
+###### Pull a model from the Ollama registry:
+`ollama pull <model-name>`
+
+###### Run a model with a prompt directly:
+`ollama run <model-name> "Your prompt here"`
+
+###### Run a model interactively without a prompt directly:
+`ollama run <model-name>`
+
+###### List all downloaded models:
+`ollama list`
+
+###### Get help and see available commands:
+`ollama help`
+
+### Installing DeepSeek-R1
+To download and install the [DeepSeek-R1](https://registry.ollama.com/library/deepseek-r1) model:
+
+`ollama pull deepseek-r1`
+
+### Installing Phi-3.5
+To download and install the [Phi-3.5phi3.5](https://registry.ollama.com/library/phi3.5) model:
+
+`ollama pull phi3.5`
+
