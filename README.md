@@ -54,7 +54,7 @@ To download and install the [DeepSeek-R1](https://registry.ollama.com/library/de
 `ollama pull deepseek-r1`
 
 ### Installing Phi-3.5
-To download and install the [Phi-3.5phi3.5](https://registry.ollama.com/library/phi3.5) model:
+To download and install the [Phi-3.5](https://registry.ollama.com/library/phi3.5) model:
 
 `ollama pull phi3.5`
 
