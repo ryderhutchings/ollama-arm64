@@ -5,7 +5,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/ryderhutchings/ollama-arm64)
 [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfYoumlckdDcox4TtxZiKtA?label=YouTube&style=flat&color=red&logo=youtube)](https://www.youtube.com/@ryderhutchings)
 
-Install script and setup guide for the Ollama on AArch64 Linux devices.
+Install script and setup guide for Ollama on AArch64 Linux devices.
 
 This repo provides an easy install script and setup guide for running models like [deepseek-r1](https://registry.ollama.com/library/deepseek-r1) and [phi3.5](https://registry.ollama.com/library/phi3.5) using Ollama on ARM64 (AArch64) Linux devices, including the Raspberry Pi 5.
 
